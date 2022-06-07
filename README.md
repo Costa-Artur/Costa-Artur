@@ -2,6 +2,12 @@
   <img src="https://media.giphy.com/media/C5vqXwf65UEs8/giphy.gif" width="500"/>
 </div>
 
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=plastic&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=plastic&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
+
 <!--
 **Costa-Artur/Costa-Artur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
